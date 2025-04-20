@@ -1,4 +1,4 @@
-<!Rifa reno html><html lang="en">
+<!Rifa Renohtml><html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -83,7 +83,7 @@
     </section>
     <section id="contact" class="section">
       <h2>Contact</h2>
-      <p>Feel free to reach out via email: <a href="rifareno15@gmail.com"></a></p>
+      <p>Feel free to reach out via email: <a href="mailto:rifareno15@gmail.com">rifareno15@gmail.com</a></p>
     </section>
   </div>
   <footer>
