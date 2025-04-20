@@ -83,7 +83,7 @@
     </section>
     <section id="contact" class="section">
       <h2>Contact</h2>
-      <p>Feel free to reach out via email: <a href="mailto:your@email.com">your@email.com</a></p>
+      <p>Feel free to reach out via email: <a href="rifareno15@gmail.com">your@email.com</a></p>
     </section>
   </div>
   <footer>
